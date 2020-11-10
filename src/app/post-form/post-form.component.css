@@ -1,0 +1,13 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 0 auto;
+  font-family: "Dosis", sans-serif;
+}
+
+.title {
+  font-family: "Homemade Apple", cursive;
+  text-align: center;
+  color: rgb(3, 169, 244);
+}
