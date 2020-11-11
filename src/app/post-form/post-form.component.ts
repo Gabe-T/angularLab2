@@ -20,5 +20,6 @@ export class PostFormComponent implements OnInit {
     };
     console.log(newPost);
     this.submitEvent.emit(newPost);
+    form.reset();
   };
 }
